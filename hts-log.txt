@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 May 2023 13:06:06 at https://helping.ca/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://helping.ca/ -O1 "C:\My Web Sites\Helping.ca" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:06:36	Error: 	"Method Not Allowed" (405) at link https://helping.ca/xmlrpc.php (from https://helping.ca/)
+13:08:17	Error: 	"Not Found" (404) at link https://alzheimer.ca/sites/default/files/images/logos/wordmark_sk_en.jpg (from https://helping.ca/)
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=63
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=63 to https://helping.ca/our-history/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=341
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=341 to https://helping.ca/owneroperator/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=71
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=71 to https://helping.ca/partners/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=335
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=335 to https://helping.ca/common-spaces/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=338
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=338 to https://helping.ca/outdoors-spaces/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=85
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=85 to https://helping.ca/meals/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=94
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=94 to https://helping.ca/recreation/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=105
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=105 to https://helping.ca/medical-care/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=111
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=111 to https://helping.ca/palliative-care/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=123
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=123 to https://helping.ca/personal-effects/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=114
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=114 to https://helping.ca/hygiene/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=128
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=128 to https://helping.ca/safetysecurity/
+13:08:18	Warning: 	Moved Permanently for https://helping.ca/?p=120
+13:08:18	Warning: 	File has moved from https://helping.ca/?p=120 to https://helping.ca/visitation/
+13:08:24	Warning: 	Moved Permanently for https://helping.ca/?p=168
+13:08:24	Warning: 	File has moved from https://helping.ca/?p=168 to https://helping.ca/accessibility/
+13:08:24	Warning: 	Moved Permanently for https://helping.ca/?p=233
+13:08:24	Warning: 	File has moved from https://helping.ca/?p=233 to https://helping.ca/bridging-program/
+13:08:24	Warning: 	Moved Permanently for https://helping.ca/?p=242
+13:08:24	Warning: 	File has moved from https://helping.ca/?p=242 to https://helping.ca/personalized-services/
+13:08:24	Warning: 	Moved Permanently for https://helping.ca/?p=246
+13:08:24	Warning: 	File has moved from https://helping.ca/?p=246 to https://helping.ca/how-we-can-help/
+13:08:24	Warning: 	Moved Permanently for https://helping.ca/?p=256
+13:08:24	Warning: 	File has moved from https://helping.ca/?p=256 to https://helping.ca/client-security/
+13:08:24	Warning: 	Moved Permanently for https://helping.ca/?p=261
+13:08:24	Warning: 	File has moved from https://helping.ca/?p=261 to https://helping.ca/access-bridging-program/
+13:08:24	Warning: 	Moved Permanently for https://helping.ca/?p=252
+13:08:24	Warning: 	File has moved from https://helping.ca/?p=252 to https://helping.ca/our-prices/
+13:08:24	Warning: 	Moved Permanently for https://helping.ca/?p=224
+13:08:24	Warning: 	File has moved from https://helping.ca/?p=224 to https://helping.ca/contact-us/
+13:08:24	Warning: 	Moved Permanently for https://helping.ca/?p=82
+13:08:24	Warning: 	File has moved from https://helping.ca/?p=82 to https://helping.ca/services/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 17 seconds : 220 links scanned, 195 files written (58471297 bytes overall) [54422363 bytes received at 397243 bytes/sec], 5397833 bytes transferred using HTTP compression in 116 files, ratio 22%, 8.8 requests per connection
+(2 errors, 44 warnings, 0 messages)
